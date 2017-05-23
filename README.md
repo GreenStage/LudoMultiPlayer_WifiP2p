@@ -1,2 +1,3 @@
 # game_go_barefoot
-Nem eu sei bem
+Ludo Board Game for Android
+Multiplayer implemented using WifiDirect P2p
