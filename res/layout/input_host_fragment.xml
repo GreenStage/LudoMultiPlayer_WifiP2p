@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:name="rmsf.eduardodiogo.ludo3wifi.InputHostInfoFragment">
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Please specify a visible display name:"
+    android:textColor="#FFFFFF"
+    android:id="@+id/disp1"
+    android:textSize="20sp"
+    />
+<EditText
+    android:id="@+id/inptUsername"
+    android:layout_marginTop="5dp"
+    android:layout_below="@+id/disp1"
+    android:inputType="text"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:hint="Input a display name here"
+    android:background="@color/background_holo_dark"
+    />
+<TextView
+    android:layout_marginTop="15dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/inptUsername"
+    android:text="Optional a visible room name:"
+    android:textColor="#FFFFFF"
+    android:id="@+id/disp2"
+    android:textSize="20sp"
+    />
+<EditText
+    android:id="@+id/roomName"
+    android:layout_marginTop="5dp"
+    android:layout_below="@+id/disp2"
+    android:inputType="text"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:hint="Input room name Here"
+    android:background="@color/background_holo_dark"
+
+    />
+
+<Button
+    android:id="@+id/button2"
+    android:layout_below="@+id/roomName"
+    android:layout_marginTop="15dp"
+    android:layout_width="120dp"
+    android:onClick="StartRoom"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"
+    android:layout_centerVertical="true"
+    android:text="Create Room"
+    android:background="@color/btnPrm"
+    android:textColor="#ffffff"
+    android:textStyle="bold"
+    />
+</RelativeLayout>

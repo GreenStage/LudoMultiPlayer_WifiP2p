@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:background="@drawable/bg"
+    android:id="@+id/main_menu"
+    >
+
+    <Button
+        android:id="@+id/doHosting"
+        android:layout_width="150dp"
+        android:layout_height="45dp"
+        android:onClick="doHosting"
+        android:text="Host a Game"
+        android:background="@drawable/button"
+        />
+
+
+    <Button
+        android:id="@+id/searchGame"
+        android:layout_width="150dp"
+        android:layout_alignParentRight="true"
+        android:layout_height="45dp"
+        android:onClick="findGame"
+        android:text="Join Game"
+        android:background="@drawable/button"
+        />
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_below="@+id/doHosting"
+        android:layout_marginTop="20dp"
+
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/inputInfoContainer">
+    </FrameLayout>
+
+</RelativeLayout>

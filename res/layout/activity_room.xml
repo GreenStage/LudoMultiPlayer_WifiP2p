@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="rmsf.eduardodiogo.ludo3wifi.userInterface.RoomActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:background="@drawable/bg"
+    android:id="@+id/room_actv">
+    <TextView
+        android:id="@+id/roomname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:text="NOME DA SALA"/>
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_below="@+id/doHosting"
+        android:layout_marginTop="10dp"
+
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/roomContainer">
+    </FrameLayout>
+
+</RelativeLayout>
