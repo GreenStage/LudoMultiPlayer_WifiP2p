@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml
+		INJECTED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml
+		INJECTED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml
+		INJECTED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:7:5-74
+	android:targetSdkVersion
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:7:42-71
+		INJECTED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml
+		INJECTED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:7:15-41
+		INJECTED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml
+		INJECTED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:8:5-100
+	android:required
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:8:22-45
+	android:name
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:8:46-97
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:9:5-102
+	android:required
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:9:22-45
+	android:name
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:9:48-99
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:10:5-103
+	android:required
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:10:22-45
+	android:name
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:10:46-100
+uses-permission#android.permission.INTERNET
+ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:14:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:15:22-77
+application
+ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:17:5-37:19
+	android:label
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:21:9-41
+	android:roundIcon
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:22:9-54
+	android:allowBackup
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:19:9-43
+	android:theme
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:23:9-40
+	android:name
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:20:9-40
+activity#com.ludo3wifi.userInterface.MainMenu
+ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:24:9-29:20
+	android:name
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:24:19-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:27:27-74
+activity#com.ludo3wifi.userInterface.RoomActivity
+ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:30:9-73
+	android:name
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:30:19-61
+activity#com.ludo3wifi.userInterface.GameLauncher
+ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:31:9-36:20
+	android:screenOrientation
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:33:13-45
+	android:configChanges
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:35:13-83
+	android:name
+		ADDED from /Users/eduardogomes/AndroidStudioProjects/Game/android/AndroidManifest.xml:32:13-68

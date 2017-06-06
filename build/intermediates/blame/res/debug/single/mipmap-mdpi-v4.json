@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/eduardogomes/AndroidStudioProjects/Game/android/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/eduardogomes/AndroidStudioProjects/Game/android/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/eduardogomes/AndroidStudioProjects/Game/android/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher_round.png",
+        "source": "/Users/eduardogomes/AndroidStudioProjects/Game/android/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

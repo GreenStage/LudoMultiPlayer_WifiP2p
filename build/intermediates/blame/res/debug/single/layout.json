@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/eduardogomes/AndroidStudioProjects/Game/android/build/intermediates/res/merged/debug/layout/buddy_element.xml",
+        "source": "/Users/eduardogomes/AndroidStudioProjects/Game/android/res/layout/buddy_element.xml"
+    },
+    {
+        "merged": "/Users/eduardogomes/AndroidStudioProjects/Game/android/build/intermediates/res/merged/debug/layout/find_games_fragment.xml",
+        "source": "/Users/eduardogomes/AndroidStudioProjects/Game/android/res/layout/find_games_fragment.xml"
+    },
+    {
+        "merged": "/Users/eduardogomes/AndroidStudioProjects/Game/android/build/intermediates/res/merged/debug/layout/input_host_fragment.xml",
+        "source": "/Users/eduardogomes/AndroidStudioProjects/Game/android/res/layout/input_host_fragment.xml"
+    },
+    {
+        "merged": "/Users/eduardogomes/AndroidStudioProjects/Game/android/build/intermediates/res/merged/debug/layout/activity_room.xml",
+        "source": "/Users/eduardogomes/AndroidStudioProjects/Game/android/res/layout/activity_room.xml"
+    },
+    {
+        "merged": "/Users/eduardogomes/AndroidStudioProjects/Game/android/build/intermediates/res/merged/debug/layout/activity_main_menu.xml",
+        "source": "/Users/eduardogomes/AndroidStudioProjects/Game/android/res/layout/activity_main_menu.xml"
+    }
+]

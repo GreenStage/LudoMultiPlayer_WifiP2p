@@ -1,0 +1,104 @@
+[
+    {
+        "outputFile": "/Users/eduardogomes/AndroidStudioProjects/Game/android/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/eduardogomes/AndroidStudioProjects/Game/android/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 96,
+                        "endColumn": 54,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 40,
+                    "endOffset": 146
+                },
+                "from": {
+                    "file": "/Users/eduardogomes/AndroidStudioProjects/Game/android/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 40,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 151,
+                    "endColumn": 36,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "/Users/eduardogomes/AndroidStudioProjects/Game/android/res/values/ids.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 36,
+                        "endOffset": 88
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endColumn": 45,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "/Users/eduardogomes/AndroidStudioProjects/Game/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 45,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 698
+                },
+                "from": {
+                    "file": "/Users/eduardogomes/AndroidStudioProjects/Game/android/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            }
+        ]
+    }
+]
